@@ -40,13 +40,10 @@ actors_one[number_one++] = "THOUGHT"
 actors_one[number_one++] = "EARTH"
 actors_one[number_one++] = "COMFORT"
 actors_one[number_one++] = "FAMILY"
-actors_one[number_one++] = "GOD"
 actors_one[number_one++] = "SCIENCE"
 actors_one[number_one++] = "PERSON"
 actors_one[number_one++] = "ROBOT"
 actors_one[number_one++] = "COMPUTER"
-
-
+actors_one[number_one++] = "COMPANION"
 // keep adding items here...
-
 increment_one = Math.floor(Math.random() * number_one);

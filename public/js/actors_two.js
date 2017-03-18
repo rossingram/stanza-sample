@@ -38,15 +38,12 @@ actors_two[number_two++] = "MUSIC"
 actors_two[number_two++] = "PERSON"
 actors_two[number_two++] = "MIND"
 actors_two[number_two++] = "LAUGHTER"
-actors_two[number_two++] = "GOD"
 actors_two[number_two++] = "SOMEONE"
 actors_two[number_two++] = "HE"
 actors_two[number_two++] = "SHE"
 actors_two[number_two++] = "IT"
 actors_two[number_two++] = "THEY"
 actors_two[number_two++] = "FRIENDSHIP"
-
-
+actors_two[number_two++] = "COMPANION"
 // keep adding items here...
-
 increment_two = Math.floor(Math.random() * number_two);
