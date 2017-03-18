@@ -10,6 +10,8 @@ number_mod = 0;
 modify[number_mod++] = "?"
 modify[number_mod++] = "!"
 modify[number_mod++] = "."
+modify[number_mod++] = "..."
+
 
 
 // keep adding items here...
